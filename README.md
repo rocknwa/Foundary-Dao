@@ -31,8 +31,8 @@
 ## Quickstart
 
 ```
-git clone https://github.com/Cyfrin/foundry-dao-cu
-cd foundry-dao-cu
+git clone https://github.com/Foundary-Dao
+cd Foundry-Dao
 forge install
 forge build
 ```
