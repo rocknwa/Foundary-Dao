@@ -31,7 +31,7 @@
 ## Quickstart
 
 ```
-git clone https://github.com/Foundary-Dao
+git clone https://github.com/rocknwa/Foundary-Dao
 cd Foundry-Dao
 forge install
 forge build
