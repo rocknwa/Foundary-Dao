@@ -1,6 +1,6 @@
 # Foundry DAO Governance
 
-*Please note: ERC20 based voting is not always recommended, and I encourage you to explore other forms of governance like reputation based or "skin-in-the-game" based.*
+*Please note: ERC20 based voting is not always recommended.*
 
 [One of my favorite articles on money-based voting being bad](https://vitalik.eth.limo/general/2018/03/28/plutocracy.html)
 
@@ -37,11 +37,7 @@ forge install
 forge build
 ```
 
-### Optional Gitpod
-
-If you can't or don't want to run and install locally, you can work with this repo in Gitpod. If you do this, you can skip the `clone this repo` part.
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/PatrickAlphaC/foundry-dao-f23)
+ 
 
 # Usage
 
